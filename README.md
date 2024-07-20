@@ -11,7 +11,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. F
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Hello World
 
-- [`hello_world.py`](hello_world.py)
+- [`hello_world.py`](1-hello-world/02_hello_world.py/02_hello_world.py)
 - [`pattern.py`](pattern.py)
 - [`initials.py`](initials.py)
 - [`letter.py`](letter.py)
