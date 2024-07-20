@@ -5,16 +5,16 @@
 </div>
 <br>
 
-Welcome to The Legend of Python GitHub repo! We are super excited to have you. Here, you will find all the solutions to the Codédex exercises. Feel free to make pull requests to add your own twists on the exercises!
+Welcome to The Legend of Python GitHub repo! We are super excited to have you. Feel free to make pull requests to add your own twists on the exercises!
 
-### Website: www.codedex.io/python
+### Website: www.python.org
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Hello World
 
-- [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/02_hello_world.py)
-- [`pattern.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/03_pattern.py)
-- [`initials.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/04_initials.py)
-- [`letter.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/05_letter.py)
+- [`hello_world.py`](hello_world.py)
+- [`pattern.py`](pattern.py)
+- [`initials.py`](initials.py)
+- [`letter.py`](letter.py)
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
 
@@ -77,7 +77,3 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`main.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/41_main.py) (for exercise 41)
 - [`forty_two.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/42_forty_two.py)
 - [`zen.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/43_zen.py)
-
----
-
-Make sure to join the [community](https://www.codedex.io/community) and [Codédex Club](https://www.codedex.io/pricing) for more content! 💖
