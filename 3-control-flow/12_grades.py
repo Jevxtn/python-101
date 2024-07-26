@@ -1,5 +1,5 @@
 # Grades 💯
-# Codédex
+
 
 grade = 58
 
