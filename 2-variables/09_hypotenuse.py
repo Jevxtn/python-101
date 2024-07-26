@@ -1,5 +1,4 @@
 # Pythagorean Theroem 📐
-# Codédex
 
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
