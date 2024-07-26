@@ -1,5 +1,5 @@
 # Bucket List: Jerry Zhu 
-# Codédex
+
 
 things_to_do = [
    '🚀 Build a menaingful product for everyone.',
