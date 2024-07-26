@@ -1,5 +1,5 @@
 # The Cyclone 🎢
-# Codédex
+
 
 ride_is_open = True
 
