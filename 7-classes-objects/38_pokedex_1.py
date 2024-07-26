@@ -1,5 +1,5 @@
 # Pokédex 📟
-# Codédex
+
 
 # Class definition
 class Pokemon:
