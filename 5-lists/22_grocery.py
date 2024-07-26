@@ -1,5 +1,5 @@
 # Grocery List 🛒
-# Codédex
+
 
 grocery = ['🥚 Eggs', 
            '🥑 Avocados', 
