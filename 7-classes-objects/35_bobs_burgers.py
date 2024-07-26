@@ -1,5 +1,5 @@
 # Bob's Burgers 🍔
-# Codédex
+
 
 class Restaurant:
   name = ''
