@@ -1,5 +1,5 @@
 # Fortune Cookie 🥠
-# Codédex
+
 
 import random
 
