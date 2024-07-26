@@ -1,5 +1,5 @@
 # Favorite Cities 🏙️ 
-# Codédex
+
 
 class City:
   def __init__(self, name, country, population, landmarks):
