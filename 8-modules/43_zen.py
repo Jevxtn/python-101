@@ -1,5 +1,5 @@
 # The Zen of Python 📜
-# Codédex
+
 
 import this
 
