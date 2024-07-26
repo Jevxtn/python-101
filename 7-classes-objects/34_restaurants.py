@@ -1,5 +1,5 @@
 # Restaurants 🍽️ 
-# Codédex
+
 
 class Restaurant:
   name = ''
