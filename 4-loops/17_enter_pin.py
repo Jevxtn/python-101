@@ -1,5 +1,4 @@
 # Enter PIN 🏦
-# Codédex
 
 print('=== BANK OF CODéDEX ===')  
 
