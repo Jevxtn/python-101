@@ -1,5 +1,5 @@
 # Reading List 📚
-# Codédex
+
 
 books = ['Zero to One',
          'The Lean Startup',
